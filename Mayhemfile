@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-readfq
+target: kseq
+
+cmds:
+  - cmd: /repo/kseq
+    # filepath: /test.c
