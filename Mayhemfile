@@ -2,4 +2,4 @@ project: readfq
 target: kseq
 
 cmds:
-  - cmd: /repo/kseq
+  - cmd: /kseq
